@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "function_test",
+      "setup": "gradle run",
+      "run": "gradle test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
