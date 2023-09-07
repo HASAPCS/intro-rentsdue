@@ -15,3 +15,5 @@ public class SumCalculator {
         //return 0; // Remove this line after implementing the method
     }
 }
+
+//Used to ensure commits//
