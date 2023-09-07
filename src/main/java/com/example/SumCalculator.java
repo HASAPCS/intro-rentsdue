@@ -11,6 +11,9 @@ public class SumCalculator {
      */
     public int add(int a, int b) {
         // TODO: Implement this method
-        return 0; // Remove this line after implementing the method
+        return a+b;
+        //return 0; // Remove this line after implementing the method
     }
 }
+
+//Used to ensure commits//

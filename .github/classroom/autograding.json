@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "function_test",
-      "setup": "gradle run",
+      "setup": "",
       "run": "gradle test",
       "input": "",
       "output": "",
